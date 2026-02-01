@@ -1,9 +1,0 @@
-{
-  "incident_id": "string",
-  "source": "monitoring | customer | internal",
-  "service_name": "string",
-  "symptom": "string",
-  "timestamp": "ISO-8601",
-  "logs_reference": "string",
-  "severity_hint": "low | medium | high"
-}
